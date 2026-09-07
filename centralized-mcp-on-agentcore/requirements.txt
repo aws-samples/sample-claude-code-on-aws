@@ -1,7 +1,7 @@
 boto3==1.42.89
 strands-agents==1.33.0
 strands-agents-tools==0.2.23
-mcp==1.26.0
+mcp==1.28.1
 httpx==0.28.1
 python-dotenv==1.2.2
 PyJWT==2.12.1
