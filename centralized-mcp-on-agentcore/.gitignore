@@ -1,0 +1,36 @@
+# Environment and secrets
+.env
+
+# Local MCP config (per-user server connections)
+.mcp.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Generated notebooks
+*_executed.ipynb
+output_*.ipynb
+
+# gstack
+.gstack/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code workspace
+*.code-workspace
+
+# Generated config (contains AWS account IDs, gateway IDs)
+gateway_config.json
+
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/.terraform.lock.hcl
+terraform/terraform.tfvars
+terraform/.build/
+
+internal/
