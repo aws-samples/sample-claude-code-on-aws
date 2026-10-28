@@ -1,5 +1,5 @@
 boto3==1.42.89
-strands-agents==1.33.0
+strands-agents==1.48.0
 strands-agents-tools==0.2.23
 mcp==1.26.0
 httpx==0.28.1
